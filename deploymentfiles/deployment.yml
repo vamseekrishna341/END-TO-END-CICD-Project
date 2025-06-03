@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: vamseek341/devopsproject:229
+        image: vamseek341/devopsproject:230
         ports:
         - containerPort: 8080
 
